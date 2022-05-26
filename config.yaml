@@ -1,0 +1,23 @@
+device : 'cpu' # {'cpu', 'cuda'}
+verbose : True
+
+dataset_name : 'MNIST' # {'MNIST', 'CIFAR10'}
+model_name : 'LeNet' # {'LeNet'}
+
+learn_explainer : False 
+
+target_idx : 3 # 0 - 10 for {'MNIST', 'CIFAR10'}
+
+n_samples : 100
+
+soft_interventions : True
+
+graph_stab : True
+gen_attr : False
+save_attr : False
+vis_attr : False
+eval_attr : False
+baseline_attr: False
+
+layer_name : 'conv2' # {'conv1', 'conv2'}
+layer_name_soft : 'fc3' # {'conv1', 'conv2', 'fc1', 'fc2', 'fc3'}
