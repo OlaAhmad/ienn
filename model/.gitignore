@@ -1,0 +1,4 @@
+*
+!.gitignore
+!*/LeNet/CIFAR10/net.pth
+!./LeNet/MNIST/net.pth
