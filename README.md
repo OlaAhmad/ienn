@@ -21,7 +21,7 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poet
 ## Installation
 1. Clone the repo and go at the root
    ```bash
-    git clone https://github.com/annonym/ienn.git && cd ienn
+    git clone https://github.com/annonym/ixnn.git && cd ixnn
    ```
 2. Setup poetry
    ```bash
