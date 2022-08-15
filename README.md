@@ -1,4 +1,4 @@
-# Interventional Explanations of Neural Networks
+# Causal analysis for robust interpretability of neural networks
 
 Explainability and interpretability play an important role for adopting deep neural networks Through analyzing the effect of path interventions at various nodes on model's performance, we are able to reveal the causal mechanisms within hidden layers and isolate the relevant components from noisy ones.
 
