@@ -2,7 +2,7 @@
 
 Explainability and interpretability play an important role for adopting deep neural networks Through analyzing the effect of path interventions at various nodes on model's performance, we are able to reveal the causal mechanisms within hidden layers and isolate the relevant components from noisy ones.
 
-This repository contains the material used to obtain the results in our [paper](https://openreview.net/pdf?id=1GU5D--W7C) with LeNet trained on the MNIST dataset.
+This repository contains the material used to obtain the results in our paper with LeNet trained on the MNIST dataset.
 ## Prerequisites
 
 Install python 3:
@@ -21,7 +21,7 @@ curl -sSL https://raw.githubusercontent.com/python-poetry/poetry/master/get-poet
 ## Installation
 1. Clone the repo and go at the root
    ```bash
-    git clone https://github.com/nbereux/Interventional-Explanations-of-Neural-Networks.git && cd Interventional-Explanations-of-Neural-Networks
+    git clone https://github.com/nbereux/ienn.git && cd ienn
    ```
 2. Setup poetry
    ```bash
