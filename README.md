@@ -1,6 +1,6 @@
 # Causal analysis for robust interpretability of neural networks
 
-Explainability and interpretability play an important role for adopting deep neural networks Through analyzing the effect of path interventions at various nodes on model's performance, we are able to reveal the causal mechanisms within hidden layers and isolate the relevant components from noisy ones.
+Explainability and interpretability play an important role for adopting deep neural networks. Through analyzing the effect of path interventions at various nodes on model's performance, we are able to reveal the causal mechanisms within hidden layers and isolate the relevant components from noisy ones.
 
 This repository contains the material used to obtain the results in our paper with LeNet trained on the MNIST dataset.
 ## Prerequisites
